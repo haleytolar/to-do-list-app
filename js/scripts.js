@@ -9,6 +9,7 @@ function newItem(){
     }else{
       let list = $('#list');
       list.append(li);
+      $("#input").val("");
     }
 
   function crossOut(){
