@@ -6,10 +6,7 @@ A simple and interactive To-Do List application built using JavaScript, HTML, an
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
